@@ -16,8 +16,11 @@ I am a Computer Science Engineering (AIML) student at VIVA Institute of Technolo
 * 💡 Registered and submitted an executive summary for **EY Techathon 6.0**.
 * 🎓 Attended comprehensive Generative AI workshops by Outskill.
 
-### 🛠️ Tech Stack & Interests
-* **Languages:** Python
+### 🛠️ Languages & Tech Stack
+* **Programming Languages:** Python (Primary), C/C++, SQL, Bash, Java.
+* **AI & Data:** Generative AI, Prompt Engineering, Agentic Workflows.
+* **Security & Tools:** Linux, Git/GitHub, Mobile App Security Testing, Docker.
+* **OS:** Windows, Kali Linux / Ubuntu.
 * **Domains:** Artificial Intelligence, Generative AI, Cybersecurity, Mobile App Security.
 * **Currently Learning:** Advanced AI integrations and real-world cybersecurity defense mechanisms.
 
