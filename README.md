@@ -17,7 +17,8 @@ I am a Computer Science Engineering (AIML) student at VIVA Institute of Technolo
 * 🎓 Attended comprehensive Generative AI workshops by Outskill.
 
 ### 🛠️ Languages & Tech Stack
-* **Programming Languages:** Python (Primary), C/C++, SQL, Bash, Java.
+* **Programming Languages:** Python, Java, Kotlin, JavaScript, JavaScript XML, C/C++, SQL, Bash.
+* **Frameworks & Libraries:** Node.js, React.js, Flask/FastAPI (for AI backends), Jetpack Compose.
 * **AI & Data:** Generative AI, Prompt Engineering, Agentic Workflows.
 * **Security & Tools:** Linux, Git/GitHub, Mobile App Security Testing, Docker.
 * **OS:** Windows, Kali Linux / Ubuntu.
@@ -25,4 +26,4 @@ I am a Computer Science Engineering (AIML) student at VIVA Institute of Technolo
 * **Currently Learning:** Advanced AI integrations and real-world cybersecurity defense mechanisms.
 
 📫 **Let's Connect:** [https://www.linkedin.com/in/pratimesh-tonde]
-                        [tondeprathmesh01@gmail.com]
+                      
