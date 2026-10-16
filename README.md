@@ -1,16 +1,25 @@
-## Hi there 👋
+# 👋 Hi, I'm Pratimesh Tonde! 
 
-<!--
-**pratimesh-tonde/pratimesh-tonde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Founder & CEO @ Aix Tech Pvt. Ltd. | AI Enthusiast | Cybersecurity Aspirant**
 
-Here are some ideas to get you started:
+I am a Computer Science Engineering (AIML) student at VIVA Institute of Technology (Mumbai University) with a deep passion for blending Artificial Intelligence with secure systems. I am currently exploring Agentic AI, Mobile Security, and Data Privacy while leading my own tech company.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 What I'm Up To
+* 🏢 **Leading:** Aix Tech Private Limited, driving IT solutions in the mumbai region.
+* 💻 **Building:** A real-time assistant application for Android using **Python**.
+* 🛡️ **Securing:** Actively practicing mobile application security (Mobile Hacking Lab) and advocating for Data Privacy.
+* 🧠 **Exploring:** Generative AI, AI Agents, and Model Context Protocol.
+
+### 🏆 Milestones & Achievements
+* 🌟 Shortlisted for the **Google Gemini Student Ambassador Program 2026**.
+* 🤖 Completed the **5-Day AI Agents Intensive** by Google on Kaggle.
+* 💡 Registered and submitted an executive summary for **EY Techathon 6.0**.
+* 🎓 Attended comprehensive Generative AI workshops by Outskill.
+
+### 🛠️ Tech Stack & Interests
+* **Languages:** Python
+* **Domains:** Artificial Intelligence, Generative AI, Cybersecurity, Mobile App Security.
+* **Currently Learning:** Advanced AI integrations and real-world cybersecurity defense mechanisms.
+
+📫 **Let's Connect:** [https://www.linkedin.com/in/pratimesh-tonde]
+                        [tondeprathmesh01@gmail.com]
