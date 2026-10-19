@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Pratimesh Tonde! 
 
-**Founder & CEO @ Aix Tech . | AI Enthusiast | Cybersecurity Aspirant**
+**Founder & CEO @ Aix Tech  | AI Enthusiast | Cybersecurity Aspirant**
 
 I am a Computer Science Engineering (AIML) student at VIVA Institute of Technology (Mumbai University) with a deep passion for blending Artificial Intelligence with secure systems. I am currently exploring Agentic AI, Mobile Security, and Data Privacy while leading my own tech company.
 
